@@ -1,2 +1,9 @@
 # Intro to OOP in Python
- This repository contain some of the OOP Concepts for complete beginners.
+
+-This repository contain some of the OOP Concepts for complete beginners.
+-Creating Class ~ Give Info Regarding Creating Classes in Python.
+-Instantiation and Methods ~ Give Info Regarding Class Instantiation with Instance Method
+-Classes and C Methods ~ Give Info Regarding Class Instantiation with Class Methods
+-Classes and S Methods ~ Give Info Regarding Class Instantiation with Static Methods
+-Inheritance Intro ~ Give Info Regarding Inheritance
+-Encapsulation Intro ~ Give Info Regarding Property Decorator Getter And Setter in Python
